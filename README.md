@@ -190,7 +190,7 @@ AI is used across multiple components:
 
 Watch the working prototype and explanation here:
 
-[Demo Video Link](https://drive.google.com/file/d/173d_Sk8OJW576TiG2xQQC03chRfXm5Ws/view?usp=sharing)
+[Demo Video Link](https://www.youtube.com/watch?v=s_lMjgrzzcI)
 
 ---
 
