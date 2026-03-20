@@ -7,7 +7,7 @@ Zomato delivery partner operating near SRM University, Kattankulathur, Chennai.
 
 ## 1. Problem Statement
 
-Delivery partners rely heavily on continuous working hours to earn their daily income. However, external disruptions such as sudden heavy rainfall and waterlogging—common in Chennai suburbs—directly reduce their ability to work.
+Delivery partners rely heavily on continuous working hours to earn their daily income. However, external disruptions such as sudden heavy rainfall and waterlogging common in Chennai suburbs directly reduce their ability to work.
 
 In areas like Kattankulathur, even 2–3 hours of intense rain can:
 - Halt deliveries completely  
