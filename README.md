@@ -190,7 +190,15 @@ AI is used across multiple components:
 
 Watch the working prototype and explanation here:
 
-[Demo Video Link](https://your-demo-link-here.com)
+[Demo Video Link](https://drive.google.com/file/d/173d_Sk8OJW576TiG2xQQC03chRfXm5Ws/view?usp=sharing)
+
+---
+
+## Prototype Link
+
+Experience the live prototype here:
+
+[Prototype Link](https://uharishinkx.github.io/guidewire-demo/)
 
 ---
 
