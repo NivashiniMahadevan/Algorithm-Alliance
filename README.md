@@ -186,6 +186,15 @@ AI is used across multiple components:
 
 ---
 
+## Demo Video
+
+Watch the working prototype and explanation here:
+
+[Demo Video Link](https://your-demo-link-here.com)
+
+---
+
+
 ## 11. Future Scope
 
 - Direct integration with delivery platform APIs  
